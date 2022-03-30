@@ -1,0 +1,26 @@
+C:\Users\Johnny\source\repos\LOGIN PROG\bin\Debug\net5.0-windows\LOGIN PROG.exe
+C:\Users\Johnny\source\repos\LOGIN PROG\bin\Debug\net5.0-windows\LOGIN PROG.deps.json
+C:\Users\Johnny\source\repos\LOGIN PROG\bin\Debug\net5.0-windows\LOGIN PROG.runtimeconfig.json
+C:\Users\Johnny\source\repos\LOGIN PROG\bin\Debug\net5.0-windows\LOGIN PROG.runtimeconfig.dev.json
+C:\Users\Johnny\source\repos\LOGIN PROG\bin\Debug\net5.0-windows\LOGIN PROG.dll
+C:\Users\Johnny\source\repos\LOGIN PROG\bin\Debug\net5.0-windows\LOGIN PROG.pdb
+C:\Users\Johnny\source\repos\LOGIN PROG\obj\Debug\net5.0-windows\LOGIN PROG.csproj.AssemblyReference.cache
+C:\Users\Johnny\source\repos\LOGIN PROG\obj\Debug\net5.0-windows\LOGIN_PROG.Form1.resources
+C:\Users\Johnny\source\repos\LOGIN PROG\obj\Debug\net5.0-windows\LOGIN PROG.csproj.GenerateResource.cache
+C:\Users\Johnny\source\repos\LOGIN PROG\obj\Debug\net5.0-windows\LOGIN PROG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\source\repos\LOGIN PROG\obj\Debug\net5.0-windows\LOGIN PROG.AssemblyInfoInputs.cache
+C:\Users\Johnny\source\repos\LOGIN PROG\obj\Debug\net5.0-windows\LOGIN PROG.AssemblyInfo.cs
+C:\Users\Johnny\source\repos\LOGIN PROG\obj\Debug\net5.0-windows\LOGIN PROG.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\LOGIN PROG\obj\Debug\net5.0-windows\LOGIN PROG.dll
+C:\Users\Johnny\source\repos\LOGIN PROG\obj\Debug\net5.0-windows\refint\LOGIN PROG.dll
+C:\Users\Johnny\source\repos\LOGIN PROG\obj\Debug\net5.0-windows\LOGIN PROG.pdb
+C:\Users\Johnny\source\repos\LOGIN PROG\obj\Debug\net5.0-windows\LOGIN PROG.genruntimeconfig.cache
+C:\Users\Johnny\source\repos\LOGIN PROG\obj\Debug\net5.0-windows\ref\LOGIN PROG.dll
+C:\Users\Johnny\source\repos\LOGIN PROG\obj\Debug\net5.0-windows\LOGIN_PROG.Properties.Resources.resources
+C:\Users\Johnny\source\repos\LOGIN PROG\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Johnny\source\repos\LOGIN PROG\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Johnny\source\repos\LOGIN PROG\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Johnny\source\repos\LOGIN PROG\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Johnny\source\repos\LOGIN PROG\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Johnny\source\repos\LOGIN PROG\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Johnny\source\repos\LOGIN PROG\obj\Debug\net5.0-windows\LOGIN PROG.csproj.CopyComplete
