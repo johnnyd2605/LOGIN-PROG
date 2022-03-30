@@ -45,13 +45,3 @@ namespace LOGIN_PROG
         }
     }
 }
-/*try
-{
-    conexion.Open();
-    MessageBox.Show("Conectado");
-}
-            catch (Exception)
-{
-
-    MessageBox.Show("Error");
-}*/
